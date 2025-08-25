@@ -60,7 +60,7 @@ def propagate_parent(subtree, meta, tissue_col='tissue_name', outdict=False):
     Returns:
         pd.DataFrame or tuple: DataFrame with propagated parents, optionally with a dictionary.
     """
-    print(f"Propagating with {tissue_col}")
+    # print(f"Propagating with {tissue_col}")
     multioutput = pd.DataFrame(index=meta.index, columns=[tissue_col])
     output_dict = {}
 
