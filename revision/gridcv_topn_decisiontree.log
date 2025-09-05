@@ -1,0 +1,21 @@
+Fold 0
+top n: 1
+{'fold': 0, 'topn': 1, 'best_depth': 1, 'acc-samp': 0.32388436710637103, 'jacc-samp': 0.5200178707686426, 'prec-samp': 0.5751171248996115, 'prec-tiss': 0.7167919799498748, 'f1-tiss': 0.6998799519807923, 'n_probes': 54}
+top n: 3
+{'fold': 0, 'topn': 3, 'best_depth': 1, 'acc-samp': 0.31742913275329776, 'jacc-samp': 0.5513229301960708, 'prec-samp': 0.6025265181383621, 'prec-tiss': 0.717607973421927, 'f1-tiss': 0.6666666666666666, 'n_probes': 160}
+top n: 5
+{'fold': 0, 'topn': 5, 'best_depth': 1, 'acc-samp': 0.34100477126017403, 'jacc-samp': 0.5741910325617876, 'prec-samp': 0.6229730345433405, 'prec-tiss': 0.8138528138528138, 'f1-tiss': 0.7464107676969092, 'n_probes': 265}
+Fold 1
+top n: 1
+{'fold': 1, 'topn': 1, 'best_depth': 1, 'acc-samp': 0.48556977090151743, 'jacc-samp': 0.7329457172137922, 'prec-samp': 0.8059388031717695, 'prec-tiss': 0.7781285413631213, 'f1-tiss': 0.7901630701547077, 'n_probes': 55}
+top n: 3
+{'fold': 1, 'topn': 3, 'best_depth': 1, 'acc-samp': 0.5165129425766141, 'jacc-samp': 0.764115061935651, 'prec-samp': 0.8400958194174499, 'prec-tiss': 0.7958492975734355, 'f1-tiss': 0.7548452768729641, 'n_probes': 161}
+top n: 5
+{'fold': 1, 'topn': 5, 'best_depth': 1, 'acc-samp': 0.5653079440642665, 'jacc-samp': 0.7845625101203797, 'prec-samp': 0.8511371310761373, 'prec-tiss': 0.8116013071895425, 'f1-tiss': 0.8154349654441072, 'n_probes': 270}
+Fold 2
+top n: 1
+{'fold': 2, 'topn': 1, 'best_depth': 1, 'acc-samp': 0.39976655967318353, 'jacc-samp': 0.7249576194644768, 'prec-samp': 0.817859458733401, 'prec-tiss': 0.7735042735042735, 'f1-tiss': 0.718494813506952, 'n_probes': 50}
+top n: 3
+{'fold': 2, 'topn': 3, 'best_depth': 1, 'acc-samp': 0.5351619492267289, 'jacc-samp': 0.7965921880862062, 'prec-samp': 0.8614731983640651, 'prec-tiss': 0.7916393621668851, 'f1-tiss': 0.8172946597994036, 'n_probes': 149}
+top n: 5
+{'fold': 2, 'topn': 5, 'best_depth': 1, 'acc-samp': 0.47971987160782026, 'jacc-samp': 0.7877399932039558, 'prec-samp': 0.8513492295079689, 'prec-tiss': 0.8815313974745972, 'f1-tiss': 0.8306041784302655, 'n_probes': 251}

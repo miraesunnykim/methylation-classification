@@ -1,0 +1,577 @@
+2025-08-25 15:51:38 INFO Fold 0: train_mv=6788, train_meta=6788, test_mv=3563, test_meta=3563
+2025-08-25 15:51:38 INFO Fold 0: minipatch_probes=90
+2025-08-25 15:51:38 INFO Fold 1: train_mv=6990, train_meta=6990, test_mv=3361, test_meta=3361
+2025-08-25 15:51:38 INFO Fold 1: minipatch_probes=96
+2025-08-25 15:51:38 INFO Fold 2: train_mv=6924, train_meta=6924, test_mv=3427, test_meta=3427
+2025-08-25 15:51:38 INFO Fold 2: minipatch_probes=136
+2025-08-25 15:51:38 INFO Subset type: stratified, Subset percentage: 0.7
+2025-08-25 15:51:38 INFO Fold 0:
+2025-08-25 15:51:47 INFO n tissues subset: 39
+2025-08-25 15:51:47 INFO n samples subset: 3707
+2025-08-25 15:54:21 INFO n probes subset: 25
+2025-08-25 15:54:41 INFO Fold 0: subset shape (3707, 25)
+2025-08-25 15:54:41 INFO Metrics: {'acc-samp': 0.5859327217125382, 'jacc-samp': 0.7625147109092063, 'prec-samp': 0.82863034009823, 'prec-tiss': 0.8132999915232686, 'f1-tiss': 0.7394859813084111}
+2025-08-25 15:54:41 INFO Fold 1:
+2025-08-25 15:55:05 INFO n tissues subset: 40
+2025-08-25 15:55:05 INFO n samples subset: 4684
+2025-08-25 15:56:36 INFO n probes subset: 52
+2025-08-25 15:56:52 INFO Fold 1: subset shape (4684, 52)
+2025-08-25 15:56:52 INFO Metrics: {'acc-samp': 0.6235854675402025, 'jacc-samp': 0.8189915620082385, 'prec-samp': 0.8862321204042467, 'prec-tiss': 0.9109960552268244, 'f1-tiss': 0.894058994599086}
+2025-08-25 15:56:52 INFO Fold 2:
+2025-08-25 15:57:16 INFO n tissues subset: 38
+2025-08-25 15:57:16 INFO n samples subset: 4335
+2025-08-25 15:58:43 INFO n probes subset: 48
+2025-08-25 15:58:55 INFO Fold 2: subset shape (4335, 48)
+2025-08-25 15:58:55 INFO Metrics: {'acc-samp': 0.637904468412943, 'jacc-samp': 0.8237587741825031, 'prec-samp': 0.886579271325034, 'prec-tiss': 0.9136247384329226, 'f1-tiss': 0.8329405162738496}
+2025-08-25 15:58:55 INFO Subset type: stratified, Subset percentage: 0.5
+2025-08-25 15:58:55 INFO Fold 0:
+2025-08-25 15:59:16 INFO n tissues subset: 29
+2025-08-25 15:59:16 INFO n samples subset: 2820
+2025-08-25 16:00:30 INFO n probes subset: 74
+2025-08-25 16:00:35 INFO Fold 0: subset shape (2820, 74)
+2025-08-25 16:00:35 INFO Metrics: {'acc-samp': 0.8057901085645356, 'jacc-samp': 0.9020608261862786, 'prec-samp': 0.9451333748679949, 'prec-tiss': 0.9794520547945206, 'f1-tiss': 0.9403973509933775}
+2025-08-25 16:00:35 INFO Fold 1:
+2025-08-25 16:00:42 INFO n tissues subset: 29
+2025-08-25 16:00:42 INFO n samples subset: 2380
+2025-08-25 16:01:53 INFO n probes subset: 55
+2025-08-25 16:01:57 INFO Fold 1: subset shape (2380, 55)
+2025-08-25 16:01:57 INFO Metrics: {'acc-samp': 0.8171788810086682, 'jacc-samp': 0.8911713953676128, 'prec-samp': 0.9195260610154229, 'prec-tiss': 0.9454356229556943, 'f1-tiss': 0.9058823529411766}
+2025-08-25 16:01:57 INFO Fold 2:
+2025-08-25 16:02:04 INFO n tissues subset: 27
+2025-08-25 16:02:04 INFO n samples subset: 2098
+2025-08-25 16:03:08 INFO n probes subset: 35
+2025-08-25 16:03:12 INFO Fold 2: subset shape (2098, 35)
+2025-08-25 16:03:12 INFO Metrics: {'acc-samp': 0.6040816326530613, 'jacc-samp': 0.7914299947973417, 'prec-samp': 0.8327493349432125, 'prec-tiss': 0.7244734432234432, 'f1-tiss': 0.7274673160728018}
+2025-08-25 16:03:12 INFO Subset type: stratified, Subset percentage: 0.2
+2025-08-25 16:03:12 INFO Fold 0:
+2025-08-25 16:03:17 INFO n tissues subset: 13
+2025-08-25 16:03:17 INFO n samples subset: 1000
+2025-08-25 16:04:09 INFO n probes subset: 24
+2025-08-25 16:04:10 INFO Fold 0: subset shape (1000, 24)
+2025-08-25 16:04:10 INFO Metrics: {'acc-samp': 0.7146067415730337, 'jacc-samp': 0.7995398608881755, 'prec-samp': 0.8313483146067415, 'prec-tiss': 0.7222222222222222, 'f1-tiss': 0.6933333333333335}
+2025-08-25 16:04:10 INFO Fold 1:
+2025-08-25 16:04:15 INFO n tissues subset: 13
+2025-08-25 16:04:15 INFO n samples subset: 948
+2025-08-25 16:05:06 INFO n probes subset: 14
+2025-08-25 16:05:07 INFO Fold 1: subset shape (948, 14)
+2025-08-25 16:05:07 INFO Metrics: {'acc-samp': 0.6116700201207244, 'jacc-samp': 0.7608244706333237, 'prec-samp': 0.817016384018396, 'prec-tiss': 0.9166666666666666, 'f1-tiss': 0.8571428571428571}
+2025-08-25 16:05:07 INFO Fold 2:
+2025-08-25 16:05:12 INFO n tissues subset: 13
+2025-08-25 16:05:12 INFO n samples subset: 942
+2025-08-25 16:06:04 INFO n probes subset: 20
+2025-08-25 16:06:04 INFO Fold 2: subset shape (942, 20)
+2025-08-25 16:06:04 INFO Metrics: {'acc-samp': 0.6560636182902585, 'jacc-samp': 0.7902426709583767, 'prec-samp': 0.8416579885764776, 'prec-tiss': 0.8047619047619048, 'f1-tiss': 0.8445820433436533}
+2025-08-25 16:06:04 INFO Subset type: system, Subset percentage: 0.7
+2025-08-25 16:06:04 INFO Fold 0:
+2025-08-25 16:06:14 INFO n tissues subset: 38
+2025-08-25 16:06:14 INFO n samples subset: 4195
+2025-08-25 16:07:42 INFO n probes subset: 37
+2025-08-25 16:07:55 INFO Fold 0: subset shape (4195, 37)
+2025-08-25 16:07:55 INFO Metrics: {'acc-samp': 0.6032362459546926, 'jacc-samp': 0.777824009862845, 'prec-samp': 0.8421675843035068, 'prec-tiss': 0.8663690476190476, 'f1-tiss': 0.7600234368460701}
+2025-08-25 16:07:55 INFO Fold 1:
+2025-08-25 16:08:05 INFO n tissues subset: 39
+2025-08-25 16:08:05 INFO n samples subset: 4594
+2025-08-25 16:09:34 INFO n probes subset: 86
+2025-08-25 16:09:45 INFO Fold 1: subset shape (4594, 86)
+2025-08-25 16:09:45 INFO Metrics: {'acc-samp': 0.6488232579603138, 'jacc-samp': 0.8064844541194334, 'prec-samp': 0.8832612165560944, 'prec-tiss': 0.9789488966318234, 'f1-tiss': 0.9040867389491243}
+2025-08-25 16:09:45 INFO Fold 2:
+2025-08-25 16:09:55 INFO n tissues subset: 37
+2025-08-25 16:09:55 INFO n samples subset: 4733
+2025-08-25 16:11:22 INFO n probes subset: 60
+2025-08-25 16:11:32 INFO Fold 2: subset shape (4733, 60)
+2025-08-25 16:11:32 INFO Metrics: {'acc-samp': 0.5387776065742167, 'jacc-samp': 0.7423246017236773, 'prec-samp': 0.8652825674012115, 'prec-tiss': 0.9209173179761415, 'f1-tiss': 0.8537189177346917}
+2025-08-25 16:11:32 INFO Subset type: system, Subset percentage: 0.5
+2025-08-25 16:11:32 INFO Fold 0:
+2025-08-25 16:11:40 INFO n tissues subset: 25
+2025-08-25 16:11:40 INFO n samples subset: 2897
+2025-08-25 16:12:49 INFO n probes subset: 21
+2025-08-25 16:12:56 INFO Fold 0: subset shape (2897, 21)
+2025-08-25 16:12:56 INFO Metrics: {'acc-samp': 0.748730964467005, 'jacc-samp': 0.8413373827713929, 'prec-samp': 0.8925362520540187, 'prec-tiss': 0.8796296296296297, 'f1-tiss': 0.823529411764706}
+2025-08-25 16:12:56 INFO Fold 1:
+2025-08-25 16:13:05 INFO n tissues subset: 26
+2025-08-25 16:13:05 INFO n samples subset: 3529
+2025-08-25 16:14:17 INFO n probes subset: 53
+2025-08-25 16:14:22 INFO Fold 1: subset shape (3529, 53)
+2025-08-25 16:14:22 INFO Metrics: {'acc-samp': 0.8752387014640356, 'jacc-samp': 0.9340456488133126, 'prec-samp': 0.9636501874248532, 'prec-tiss': 0.9836734693877551, 'f1-tiss': 0.9574185968445788}
+2025-08-25 16:14:22 INFO Fold 2:
+2025-08-25 16:14:31 INFO n tissues subset: 25
+2025-08-25 16:14:31 INFO n samples subset: 3774
+2025-08-25 16:15:42 INFO n probes subset: 32
+2025-08-25 16:15:48 INFO Fold 2: subset shape (3774, 32)
+2025-08-25 16:15:48 INFO Metrics: {'acc-samp': 0.7272727272727273, 'jacc-samp': 0.8355877087979361, 'prec-samp': 0.8856762429489703, 'prec-tiss': 0.8946317657497782, 'f1-tiss': 0.8905200864914077}
+2025-08-25 16:15:48 INFO Subset type: system, Subset percentage: 0.2
+2025-08-25 16:15:48 INFO Fold 0:
+2025-08-25 16:15:54 INFO n tissues subset: 13
+2025-08-25 16:15:54 INFO n samples subset: 2039
+2025-08-25 16:16:49 INFO n probes subset: 13
+2025-08-25 16:16:52 INFO Fold 0: subset shape (2039, 13)
+2025-08-25 16:16:52 INFO Metrics: {'acc-samp': 0.753968253968254, 'jacc-samp': 0.8372207524985305, 'prec-samp': 0.8951730074745947, 'prec-tiss': 0.902876508513804, 'f1-tiss': 0.8213252094440213}
+2025-08-25 16:16:52 INFO Fold 1:
+2025-08-25 16:16:59 INFO n tissues subset: 14
+2025-08-25 16:16:59 INFO n samples subset: 2635
+2025-08-25 16:17:57 INFO n probes subset: 15
+2025-08-25 16:18:02 INFO Fold 1: subset shape (2635, 15)
+2025-08-25 16:18:02 INFO Metrics: {'acc-samp': 0.8221845893310754, 'jacc-samp': 0.9070237575953072, 'prec-samp': 0.9322958018554971, 'prec-tiss': 0.9413725490196079, 'f1-tiss': 0.9473597137633614}
+2025-08-25 16:18:02 INFO Fold 2:
+2025-08-25 16:18:09 INFO n tissues subset: 14
+2025-08-25 16:18:09 INFO n samples subset: 2958
+2025-08-25 16:19:09 INFO n probes subset: 14
+2025-08-25 16:19:13 INFO Fold 2: subset shape (2958, 14)
+2025-08-25 16:19:13 INFO Metrics: {'acc-samp': 0.7144522144522144, 'jacc-samp': 0.8176027676027675, 'prec-samp': 0.8586422836422837, 'prec-tiss': 0.962557753627904, 'f1-tiss': 0.7684296478812709}
+2025-08-25 16:19:13 INFO Subset type: stratified, Subset percentage: 0.7
+2025-08-25 16:19:13 INFO Fold 0:
+2025-08-25 16:19:21 INFO n tissues subset: 39
+2025-08-25 16:19:21 INFO n samples subset: 3707
+2025-08-25 16:20:50 INFO n probes subset: 30
+2025-08-25 16:21:14 INFO Fold 0: subset shape (3707, 30)
+2025-08-25 16:21:14 INFO Metrics: {'acc-samp': 0.4782874617737003, 'jacc-samp': 0.6698643049101765, 'prec-samp': 0.7569781883084634, 'prec-tiss': 0.74875, 'f1-tiss': 0.5912144702842377}
+2025-08-25 16:21:14 INFO Fold 1:
+2025-08-25 16:21:24 INFO n tissues subset: 40
+2025-08-25 16:21:24 INFO n samples subset: 4684
+2025-08-25 16:22:54 INFO n probes subset: 70
+2025-08-25 16:23:08 INFO Fold 1: subset shape (4684, 70)
+2025-08-25 16:23:08 INFO Metrics: {'acc-samp': 0.6092912447885647, 'jacc-samp': 0.8331170979771337, 'prec-samp': 0.8841747260746665, 'prec-tiss': 0.9281746031746032, 'f1-tiss': 0.9088430535798957}
+2025-08-25 16:23:08 INFO Fold 2:
+2025-08-25 16:23:17 INFO n tissues subset: 38
+2025-08-25 16:23:17 INFO n samples subset: 4335
+2025-08-25 16:24:44 INFO n probes subset: 57
+2025-08-25 16:24:54 INFO Fold 2: subset shape (4335, 57)
+2025-08-25 16:24:54 INFO Metrics: {'acc-samp': 0.6512583461736005, 'jacc-samp': 0.8219107947921508, 'prec-samp': 0.8822368152876627, 'prec-tiss': 0.934609405363389, 'f1-tiss': 0.8225524475524475}
+2025-08-25 16:24:54 INFO Subset type: stratified, Subset percentage: 0.5
+2025-08-25 16:24:54 INFO Fold 0:
+2025-08-25 16:25:02 INFO n tissues subset: 29
+2025-08-25 16:25:02 INFO n samples subset: 2820
+2025-08-25 16:26:15 INFO n probes subset: 80
+2025-08-25 16:26:20 INFO Fold 0: subset shape (2820, 80)
+2025-08-25 16:26:20 INFO Metrics: {'acc-samp': 0.7889022919179735, 'jacc-samp': 0.8766600608880464, 'prec-samp': 0.9154177915637506, 'prec-tiss': 0.9591836734693877, 'f1-tiss': 0.937799043062201}
+2025-08-25 16:26:20 INFO Fold 1:
+2025-08-25 16:26:27 INFO n tissues subset: 29
+2025-08-25 16:26:27 INFO n samples subset: 2380
+2025-08-25 16:27:38 INFO n probes subset: 74
+2025-08-25 16:27:42 INFO Fold 1: subset shape (2380, 74)
+2025-08-25 16:27:42 INFO Metrics: {'acc-samp': 0.8258471237194641, 'jacc-samp': 0.8906720107665734, 'prec-samp': 0.9189207452209815, 'prec-tiss': 0.9157051282051283, 'f1-tiss': 0.8969780219780219}
+2025-08-25 16:27:42 INFO Fold 2:
+2025-08-25 16:27:49 INFO n tissues subset: 27
+2025-08-25 16:27:49 INFO n samples subset: 2098
+2025-08-25 16:28:53 INFO n probes subset: 53
+2025-08-25 16:28:56 INFO Fold 2: subset shape (2098, 53)
+2025-08-25 16:28:56 INFO Metrics: {'acc-samp': 0.6510204081632653, 'jacc-samp': 0.8019706295216499, 'prec-samp': 0.8803283073691236, 'prec-tiss': 0.9702602230483272, 'f1-tiss': 0.8722610722610722}
+2025-08-25 16:28:56 INFO Subset type: stratified, Subset percentage: 0.2
+2025-08-25 16:28:56 INFO Fold 0:
+2025-08-25 16:29:01 INFO n tissues subset: 13
+2025-08-25 16:29:01 INFO n samples subset: 1000
+2025-08-25 16:29:52 INFO n probes subset: 24
+2025-08-25 16:29:53 INFO Fold 0: subset shape (1000, 24)
+2025-08-25 16:29:53 INFO Metrics: {'acc-samp': 0.750561797752809, 'jacc-samp': 0.8261637239165328, 'prec-samp': 0.8779373996789727, 'prec-tiss': 0.9115646258503401, 'f1-tiss': 0.8392857142857143}
+2025-08-25 16:29:53 INFO Fold 1:
+2025-08-25 16:29:58 INFO n tissues subset: 13
+2025-08-25 16:29:58 INFO n samples subset: 948
+2025-08-25 16:30:49 INFO n probes subset: 22
+2025-08-25 16:30:50 INFO Fold 1: subset shape (948, 22)
+2025-08-25 16:30:50 INFO Metrics: {'acc-samp': 0.6539235412474849, 'jacc-samp': 0.7703937913193446, 'prec-samp': 0.8318626041966083, 'prec-tiss': 0.8857142857142857, 'f1-tiss': 0.7777777777777777}
+2025-08-25 16:30:50 INFO Fold 2:
+2025-08-25 16:30:55 INFO n tissues subset: 13
+2025-08-25 16:30:55 INFO n samples subset: 942
+2025-08-25 16:31:46 INFO n probes subset: 23
+2025-08-25 16:31:47 INFO Fold 2: subset shape (942, 23)
+2025-08-25 16:31:47 INFO Metrics: {'acc-samp': 0.7375745526838966, 'jacc-samp': 0.821272365805169, 'prec-samp': 0.8447978793903247, 'prec-tiss': 0.8770604395604396, 'f1-tiss': 0.8767987384190814}
+2025-08-25 16:31:47 INFO Subset type: system, Subset percentage: 0.7
+2025-08-25 16:31:47 INFO Fold 0:
+2025-08-25 16:31:56 INFO n tissues subset: 38
+2025-08-25 16:31:56 INFO n samples subset: 4195
+2025-08-25 16:33:24 INFO n probes subset: 29
+2025-08-25 16:33:42 INFO Fold 0: subset shape (4195, 29)
+2025-08-25 16:33:42 INFO Metrics: {'acc-samp': 0.516504854368932, 'jacc-samp': 0.6999065551492736, 'prec-samp': 0.8040348235008429, 'prec-tiss': 0.8, 'f1-tiss': 0.6666666666666667}
+2025-08-25 16:33:42 INFO Fold 1:
+2025-08-25 16:33:53 INFO n tissues subset: 39
+2025-08-25 16:33:53 INFO n samples subset: 4594
+2025-08-25 16:35:21 INFO n probes subset: 107
+2025-08-25 16:35:33 INFO Fold 1: subset shape (4594, 107)
+2025-08-25 16:35:33 INFO Metrics: {'acc-samp': 0.7065066912782649, 'jacc-samp': 0.8446141652532976, 'prec-samp': 0.9104843510588781, 'prec-tiss': 0.9801587301587301, 'f1-tiss': 0.9500983284169124}
+2025-08-25 16:35:33 INFO Fold 2:
+2025-08-25 16:35:43 INFO n tissues subset: 37
+2025-08-25 16:35:43 INFO n samples subset: 4733
+2025-08-25 16:37:10 INFO n probes subset: 90
+2025-08-25 16:37:19 INFO Fold 2: subset shape (4733, 90)
+2025-08-25 16:37:19 INFO Metrics: {'acc-samp': 0.591165896250642, 'jacc-samp': 0.7579138846087998, 'prec-samp': 0.8973934257832562, 'prec-tiss': 0.9389952153110048, 'f1-tiss': 0.8640445058176028}
+2025-08-25 16:37:19 INFO Subset type: system, Subset percentage: 0.5
+2025-08-25 16:37:19 INFO Fold 0:
+2025-08-25 16:37:27 INFO n tissues subset: 25
+2025-08-25 16:37:27 INFO n samples subset: 2897
+2025-08-25 16:38:38 INFO n probes subset: 25
+2025-08-25 16:38:43 INFO Fold 0: subset shape (2897, 25)
+2025-08-25 16:38:43 INFO Metrics: {'acc-samp': 0.7868020304568528, 'jacc-samp': 0.8768934815889132, 'prec-samp': 0.918315405688502, 'prec-tiss': 0.9107142857142857, 'f1-tiss': 0.8837209302325582}
+2025-08-25 16:38:43 INFO Fold 1:
+2025-08-25 16:38:52 INFO n tissues subset: 26
+2025-08-25 16:38:52 INFO n samples subset: 3529
+2025-08-25 16:40:05 INFO n probes subset: 53
+2025-08-25 16:40:09 INFO Fold 1: subset shape (3529, 53)
+2025-08-25 16:40:09 INFO Metrics: {'acc-samp': 0.8949713558243158, 'jacc-samp': 0.9439794186293231, 'prec-samp': 0.9634349772160083, 'prec-tiss': 0.96875, 'f1-tiss': 0.9818181818181818}
+2025-08-25 16:40:09 INFO Fold 2:
+2025-08-25 16:40:18 INFO n tissues subset: 25
+2025-08-25 16:40:18 INFO n samples subset: 3774
+2025-08-25 16:41:30 INFO n probes subset: 43
+2025-08-25 16:41:38 INFO Fold 2: subset shape (3774, 43)
+2025-08-25 16:41:38 INFO Metrics: {'acc-samp': 0.7166666666666667, 'jacc-samp': 0.8253833519174427, 'prec-samp': 0.8681355218855219, 'prec-tiss': 0.9031425891181989, 'f1-tiss': 0.8695652173913043}
+2025-08-25 16:41:38 INFO Subset type: system, Subset percentage: 0.2
+2025-08-25 16:41:38 INFO Fold 0:
+2025-08-25 16:41:44 INFO n tissues subset: 13
+2025-08-25 16:41:44 INFO n samples subset: 2039
+2025-08-25 16:42:40 INFO n probes subset: 14
+2025-08-25 16:42:41 INFO Fold 0: subset shape (2039, 14)
+2025-08-25 16:42:41 INFO Metrics: {'acc-samp': 0.8505291005291006, 'jacc-samp': 0.9136978248089359, 'prec-samp': 0.9427941546989166, 'prec-tiss': 0.9434764000978234, 'f1-tiss': 0.944039562727746}
+2025-08-25 16:42:41 INFO Fold 1:
+2025-08-25 16:42:49 INFO n tissues subset: 14
+2025-08-25 16:42:49 INFO n samples subset: 2635
+2025-08-25 16:43:48 INFO n probes subset: 18
+2025-08-25 16:43:51 INFO Fold 1: subset shape (2635, 18)
+2025-08-25 16:43:51 INFO Metrics: {'acc-samp': 0.9093988145639289, 'jacc-samp': 0.9558761071462172, 'prec-samp': 0.9749667352122898, 'prec-tiss': 0.9884822161021916, 'f1-tiss': 0.9564814441713341}
+2025-08-25 16:43:51 INFO Fold 2:
+2025-08-25 16:43:59 INFO n tissues subset: 14
+2025-08-25 16:43:59 INFO n samples subset: 2958
+2025-08-25 16:44:59 INFO n probes subset: 28
+2025-08-25 16:45:00 INFO Fold 2: subset shape (2958, 28)
+2025-08-25 16:45:00 INFO Metrics: {'acc-samp': 0.8403263403263403, 'jacc-samp': 0.9332523957523958, 'prec-samp': 0.9641608391608392, 'prec-tiss': 0.9738795039546919, 'f1-tiss': 0.9518413597733711}
+2025-08-25 16:45:00 INFO Subset type: stratified, Subset percentage: 0.7
+2025-08-25 16:45:00 INFO Fold 0:
+2025-08-25 16:45:09 INFO n tissues subset: 39
+2025-08-25 16:45:09 INFO n samples subset: 3707
+2025-08-25 16:46:38 INFO n probes subset: 27
+2025-08-25 16:47:05 INFO Fold 0: subset shape (3707, 27)
+2025-08-25 16:47:05 INFO Metrics: {'acc-samp': 0.45749235474006117, 'jacc-samp': 0.6712771004055408, 'prec-samp': 0.7631007762200424, 'prec-tiss': 0.6426886792452831, 'f1-tiss': 0.519533231861999}
+2025-08-25 16:47:05 INFO Fold 1:
+2025-08-25 16:47:15 INFO n tissues subset: 40
+2025-08-25 16:47:15 INFO n samples subset: 4684
+2025-08-25 16:48:46 INFO n probes subset: 53
+2025-08-25 16:49:00 INFO Fold 1: subset shape (4684, 53)
+2025-08-25 16:49:00 INFO Metrics: {'acc-samp': 0.6128648004764741, 'jacc-samp': 0.7767684337368673, 'prec-samp': 0.8364449659268003, 'prec-tiss': 0.8664351851851853, 'f1-tiss': 0.8093058733790999}
+2025-08-25 16:49:00 INFO Fold 2:
+2025-08-25 16:49:10 INFO n tissues subset: 38
+2025-08-25 16:49:10 INFO n samples subset: 4335
+2025-08-25 16:50:37 INFO n probes subset: 30
+2025-08-25 16:50:53 INFO Fold 2: subset shape (4335, 30)
+2025-08-25 16:50:53 INFO Metrics: {'acc-samp': 0.5315870570107858, 'jacc-samp': 0.7604872371821524, 'prec-samp': 0.8264703124872617, 'prec-tiss': 0.8867521367521367, 'f1-tiss': 0.8173296452406043}
+2025-08-25 16:50:53 INFO Subset type: stratified, Subset percentage: 0.5
+2025-08-25 16:50:53 INFO Fold 0:
+2025-08-25 16:51:01 INFO n tissues subset: 29
+2025-08-25 16:51:01 INFO n samples subset: 2820
+2025-08-25 16:52:15 INFO n probes subset: 61
+2025-08-25 16:52:20 INFO Fold 0: subset shape (2820, 61)
+2025-08-25 16:52:20 INFO Metrics: {'acc-samp': 0.7997587454764777, 'jacc-samp': 0.8819807153039964, 'prec-samp': 0.9166860314327142, 'prec-tiss': 0.967741935483871, 'f1-tiss': 0.918918918918919}
+2025-08-25 16:52:20 INFO Fold 1:
+2025-08-25 16:52:27 INFO n tissues subset: 29
+2025-08-25 16:52:27 INFO n samples subset: 2380
+2025-08-25 16:53:38 INFO n probes subset: 42
+2025-08-25 16:53:43 INFO Fold 1: subset shape (2380, 42)
+2025-08-25 16:53:43 INFO Metrics: {'acc-samp': 0.747832939322301, 'jacc-samp': 0.8459720758184116, 'prec-samp': 0.8829934774970235, 'prec-tiss': 0.8164039408866994, 'f1-tiss': 0.8293650793650793}
+2025-08-25 16:53:43 INFO Fold 2:
+2025-08-25 16:53:50 INFO n tissues subset: 27
+2025-08-25 16:53:50 INFO n samples subset: 2098
+2025-08-25 16:54:55 INFO n probes subset: 51
+2025-08-25 16:54:58 INFO Fold 2: subset shape (2098, 51)
+2025-08-25 16:54:58 INFO Metrics: {'acc-samp': 0.617687074829932, 'jacc-samp': 0.7915805773969039, 'prec-samp': 0.8607356117049995, 'prec-tiss': 0.8946886446886446, 'f1-tiss': 0.8574640743871513}
+2025-08-25 16:54:58 INFO Subset type: stratified, Subset percentage: 0.2
+2025-08-25 16:54:58 INFO Fold 0:
+2025-08-25 16:55:03 INFO n tissues subset: 13
+2025-08-25 16:55:03 INFO n samples subset: 1000
+2025-08-25 16:55:55 INFO n probes subset: 22
+2025-08-25 16:55:56 INFO Fold 0: subset shape (1000, 22)
+2025-08-25 16:55:56 INFO Metrics: {'acc-samp': 0.6853932584269663, 'jacc-samp': 0.7589058319957197, 'prec-samp': 0.8095452113429642, 'prec-tiss': 0.7941176470588235, 'f1-tiss': 0.6551724137931035}
+2025-08-25 16:55:56 INFO Fold 1:
+2025-08-25 16:56:01 INFO n tissues subset: 13
+2025-08-25 16:56:01 INFO n samples subset: 948
+2025-08-25 16:56:53 INFO n probes subset: 27
+2025-08-25 16:56:54 INFO Fold 1: subset shape (948, 27)
+2025-08-25 16:56:54 INFO Metrics: {'acc-samp': 0.5553319919517102, 'jacc-samp': 0.6996528957293545, 'prec-samp': 0.7675361693973365, 'prec-tiss': 0.8898305084745762, 'f1-tiss': 0.7474747474747475}
+2025-08-25 16:56:54 INFO Fold 2:
+2025-08-25 16:56:59 INFO n tissues subset: 13
+2025-08-25 16:56:59 INFO n samples subset: 942
+2025-08-25 16:57:51 INFO n probes subset: 25
+2025-08-25 16:57:51 INFO Fold 2: subset shape (942, 25)
+2025-08-25 16:57:51 INFO Metrics: {'acc-samp': 0.7037773359840954, 'jacc-samp': 0.8202167944712677, 'prec-samp': 0.8561677553725268, 'prec-tiss': 0.8590116279069768, 'f1-tiss': 0.8944054686094622}
+2025-08-25 16:57:51 INFO Subset type: system, Subset percentage: 0.7
+2025-08-25 16:57:51 INFO Fold 0:
+2025-08-25 16:58:01 INFO n tissues subset: 38
+2025-08-25 16:58:01 INFO n samples subset: 4195
+2025-08-25 16:59:30 INFO n probes subset: 29
+2025-08-25 16:59:51 INFO Fold 0: subset shape (4195, 29)
+2025-08-25 16:59:51 INFO Metrics: {'acc-samp': 0.5585760517799353, 'jacc-samp': 0.7292153764969299, 'prec-samp': 0.798675567510519, 'prec-tiss': 0.835727969348659, 'f1-tiss': 0.6523231154810103}
+2025-08-25 16:59:51 INFO Fold 1:
+2025-08-25 17:00:01 INFO n tissues subset: 39
+2025-08-25 17:00:01 INFO n samples subset: 4594
+2025-08-25 17:01:30 INFO n probes subset: 94
+2025-08-25 17:01:42 INFO Fold 1: subset shape (4594, 94)
+2025-08-25 17:01:42 INFO Metrics: {'acc-samp': 0.6668204891555145, 'jacc-samp': 0.8245287105347096, 'prec-samp': 0.8985672533895883, 'prec-tiss': 0.9723059281580841, 'f1-tiss': 0.9329588014981274}
+2025-08-25 17:01:42 INFO Fold 2:
+2025-08-25 17:01:52 INFO n tissues subset: 37
+2025-08-25 17:01:52 INFO n samples subset: 4733
+2025-08-25 17:03:19 INFO n probes subset: 61
+2025-08-25 17:03:30 INFO Fold 2: subset shape (4733, 61)
+2025-08-25 17:03:30 INFO Metrics: {'acc-samp': 0.5814072932717, 'jacc-samp': 0.7744794596489512, 'prec-samp': 0.870658155403918, 'prec-tiss': 0.937137330754352, 'f1-tiss': 0.8183581124757595}
+2025-08-25 17:03:30 INFO Subset type: system, Subset percentage: 0.5
+2025-08-25 17:03:30 INFO Fold 0:
+2025-08-25 17:03:38 INFO n tissues subset: 25
+2025-08-25 17:03:38 INFO n samples subset: 2897
+2025-08-25 17:04:47 INFO n probes subset: 22
+2025-08-25 17:04:54 INFO Fold 0: subset shape (2897, 22)
+2025-08-25 17:04:54 INFO Metrics: {'acc-samp': 0.7419627749576988, 'jacc-samp': 0.8618094163779443, 'prec-samp': 0.9036956463352401, 'prec-tiss': 0.8888888888888888, 'f1-tiss': 0.8529411764705882}
+2025-08-25 17:04:54 INFO Fold 1:
+2025-08-25 17:05:02 INFO n tissues subset: 26
+2025-08-25 17:05:02 INFO n samples subset: 3529
+2025-08-25 17:06:15 INFO n probes subset: 62
+2025-08-25 17:06:20 INFO Fold 1: subset shape (3529, 62)
+2025-08-25 17:06:20 INFO Metrics: {'acc-samp': 0.7931253978357734, 'jacc-samp': 0.8885310778054253, 'prec-samp': 0.9415796365032519, 'prec-tiss': 0.9780306088421644, 'f1-tiss': 0.9547991831177671}
+2025-08-25 17:06:20 INFO Fold 2:
+2025-08-25 17:06:29 INFO n tissues subset: 25
+2025-08-25 17:06:29 INFO n samples subset: 3774
+2025-08-25 17:07:41 INFO n probes subset: 38
+2025-08-25 17:07:47 INFO Fold 2: subset shape (3774, 38)
+2025-08-25 17:07:47 INFO Metrics: {'acc-samp': 0.7234848484848485, 'jacc-samp': 0.8264457070707071, 'prec-samp': 0.8819696969696968, 'prec-tiss': 0.932838246947193, 'f1-tiss': 0.8656716417910447}
+2025-08-25 17:07:47 INFO Subset type: system, Subset percentage: 0.2
+2025-08-25 17:07:47 INFO Fold 0:
+2025-08-25 17:07:53 INFO n tissues subset: 13
+2025-08-25 17:07:53 INFO n samples subset: 2039
+2025-08-25 17:08:49 INFO n probes subset: 14
+2025-08-25 17:08:50 INFO Fold 0: subset shape (2039, 14)
+2025-08-25 17:08:50 INFO Metrics: {'acc-samp': 0.8783068783068783, 'jacc-samp': 0.9236310573612161, 'prec-samp': 0.938366087175611, 'prec-tiss': 0.8998917748917749, 'f1-tiss': 0.912751677852349}
+2025-08-25 17:08:50 INFO Fold 1:
+2025-08-25 17:08:57 INFO n tissues subset: 14
+2025-08-25 17:08:57 INFO n samples subset: 2635
+2025-08-25 17:09:56 INFO n probes subset: 22
+2025-08-25 17:09:58 INFO Fold 1: subset shape (2635, 22)
+2025-08-25 17:09:58 INFO Metrics: {'acc-samp': 0.9254868755292125, 'jacc-samp': 0.9640388400760965, 'prec-samp': 0.976180395951776, 'prec-tiss': 0.9746349841020024, 'f1-tiss': 0.9772739985009677}
+2025-08-25 17:09:58 INFO Fold 2:
+2025-08-25 17:10:05 INFO n tissues subset: 14
+2025-08-25 17:10:05 INFO n samples subset: 2958
+2025-08-25 17:11:06 INFO n probes subset: 19
+2025-08-25 17:11:08 INFO Fold 2: subset shape (2958, 19)
+2025-08-25 17:11:08 INFO Metrics: {'acc-samp': 0.7902097902097902, 'jacc-samp': 0.899070374070374, 'prec-samp': 0.9428959928959928, 'prec-tiss': 0.9580420085519473, 'f1-tiss': 0.9240121580547113}
+2025-08-25 17:11:08 INFO Subset type: stratified, Subset percentage: 0.7
+2025-08-25 17:11:08 INFO Fold 0:
+2025-08-25 17:11:17 INFO n tissues subset: 39
+2025-08-25 17:11:17 INFO n samples subset: 3707
+2025-08-25 17:12:46 INFO n probes subset: 26
+2025-08-25 17:13:10 INFO Fold 0: subset shape (3707, 26)
+2025-08-25 17:13:10 INFO Metrics: {'acc-samp': 0.5296636085626911, 'jacc-samp': 0.7124038479601293, 'prec-samp': 0.7898117628451086, 'prec-tiss': 0.7325203252032519, 'f1-tiss': 0.5662621359223301}
+2025-08-25 17:13:10 INFO Fold 1:
+2025-08-25 17:13:20 INFO n tissues subset: 40
+2025-08-25 17:13:20 INFO n samples subset: 4684
+2025-08-25 17:14:51 INFO n probes subset: 43
+2025-08-25 17:15:12 INFO Fold 1: subset shape (4684, 43)
+2025-08-25 17:15:12 INFO Metrics: {'acc-samp': 0.5926146515783204, 'jacc-samp': 0.7993787315854022, 'prec-samp': 0.8663353951322981, 'prec-tiss': 0.8553496712492528, 'f1-tiss': 0.8103744322587791}
+2025-08-25 17:15:12 INFO Fold 2:
+2025-08-25 17:15:22 INFO n tissues subset: 38
+2025-08-25 17:15:22 INFO n samples subset: 4335
+2025-08-25 17:16:49 INFO n probes subset: 52
+2025-08-25 17:17:01 INFO Fold 2: subset shape (4335, 52)
+2025-08-25 17:17:01 INFO Metrics: {'acc-samp': 0.647663071391885, 'jacc-samp': 0.826683409040882, 'prec-samp': 0.8799858034449715, 'prec-tiss': 0.9347517730496454, 'f1-tiss': 0.880207258637687}
+2025-08-25 17:17:01 INFO Subset type: stratified, Subset percentage: 0.5
+2025-08-25 17:17:01 INFO Fold 0:
+2025-08-25 17:17:09 INFO n tissues subset: 29
+2025-08-25 17:17:09 INFO n samples subset: 2820
+2025-08-25 17:18:22 INFO n probes subset: 64
+2025-08-25 17:18:27 INFO Fold 0: subset shape (2820, 64)
+2025-08-25 17:18:27 INFO Metrics: {'acc-samp': 0.8250904704463209, 'jacc-samp': 0.8977153057370187, 'prec-samp': 0.9274771669825953, 'prec-tiss': 0.9532710280373832, 'f1-tiss': 0.9272727272727272}
+2025-08-25 17:18:27 INFO Fold 1:
+2025-08-25 17:18:35 INFO n tissues subset: 29
+2025-08-25 17:18:35 INFO n samples subset: 2380
+2025-08-25 17:19:46 INFO n probes subset: 57
+2025-08-25 17:19:50 INFO Fold 1: subset shape (2380, 57)
+2025-08-25 17:19:50 INFO Metrics: {'acc-samp': 0.7817178881008668, 'jacc-samp': 0.8739493848240893, 'prec-samp': 0.9131725117540719, 'prec-tiss': 0.8713553979511426, 'f1-tiss': 0.8656288916562889}
+2025-08-25 17:19:50 INFO Fold 2:
+2025-08-25 17:19:57 INFO n tissues subset: 27
+2025-08-25 17:19:57 INFO n samples subset: 2098
+2025-08-25 17:21:02 INFO n probes subset: 50
+2025-08-25 17:21:05 INFO Fold 2: subset shape (2098, 50)
+2025-08-25 17:21:05 INFO Metrics: {'acc-samp': 0.6462585034013606, 'jacc-samp': 0.8047424972875153, 'prec-samp': 0.8815127955944283, 'prec-tiss': 0.9286746117732034, 'f1-tiss': 0.857142857142857}
+2025-08-25 17:21:05 INFO Subset type: stratified, Subset percentage: 0.2
+2025-08-25 17:21:05 INFO Fold 0:
+2025-08-25 17:21:10 INFO n tissues subset: 13
+2025-08-25 17:21:10 INFO n samples subset: 1000
+2025-08-25 17:22:02 INFO n probes subset: 25
+2025-08-25 17:22:03 INFO Fold 0: subset shape (1000, 25)
+2025-08-25 17:22:03 INFO Metrics: {'acc-samp': 0.7438202247191011, 'jacc-samp': 0.8317388978063136, 'prec-samp': 0.878437667201712, 'prec-tiss': 0.9671052631578947, 'f1-tiss': 0.823529411764706}
+2025-08-25 17:22:03 INFO Fold 1:
+2025-08-25 17:22:08 INFO n tissues subset: 13
+2025-08-25 17:22:08 INFO n samples subset: 948
+2025-08-25 17:22:59 INFO n probes subset: 16
+2025-08-25 17:23:00 INFO Fold 1: subset shape (948, 16)
+2025-08-25 17:23:00 INFO Metrics: {'acc-samp': 0.5412474849094567, 'jacc-samp': 0.6959887027794472, 'prec-samp': 0.7688360320654083, 'prec-tiss': 0.8333333333333334, 'f1-tiss': 0.6931818181818182}
+2025-08-25 17:23:00 INFO Fold 2:
+2025-08-25 17:23:05 INFO n tissues subset: 13
+2025-08-25 17:23:05 INFO n samples subset: 942
+2025-08-25 17:23:57 INFO n probes subset: 27
+2025-08-25 17:23:58 INFO Fold 2: subset shape (942, 27)
+2025-08-25 17:23:58 INFO Metrics: {'acc-samp': 0.7395626242544732, 'jacc-samp': 0.8213007668276059, 'prec-samp': 0.8636482691154659, 'prec-tiss': 0.9722222222222222, 'f1-tiss': 0.8588039867109635}
+2025-08-25 17:23:58 INFO Subset type: system, Subset percentage: 0.7
+2025-08-25 17:23:58 INFO Fold 0:
+2025-08-25 17:24:07 INFO n tissues subset: 38
+2025-08-25 17:24:07 INFO n samples subset: 4195
+2025-08-25 17:25:35 INFO n probes subset: 36
+2025-08-25 17:25:51 INFO Fold 0: subset shape (4195, 36)
+2025-08-25 17:25:51 INFO Metrics: {'acc-samp': 0.5449838187702265, 'jacc-samp': 0.7148685771258587, 'prec-samp': 0.779803077181718, 'prec-tiss': 0.8263988522238164, 'f1-tiss': 0.6666666666666667}
+2025-08-25 17:25:51 INFO Fold 1:
+2025-08-25 17:26:02 INFO n tissues subset: 39
+2025-08-25 17:26:02 INFO n samples subset: 4594
+2025-08-25 17:27:31 INFO n probes subset: 79
+2025-08-25 17:27:42 INFO Fold 1: subset shape (4594, 79)
+2025-08-25 17:27:42 INFO Metrics: {'acc-samp': 0.6783571758191047, 'jacc-samp': 0.833725930276461, 'prec-samp': 0.906013177459878, 'prec-tiss': 0.9674831081081081, 'f1-tiss': 0.9148709448259532}
+2025-08-25 17:27:42 INFO Fold 2:
+2025-08-25 17:27:52 INFO n tissues subset: 37
+2025-08-25 17:27:52 INFO n samples subset: 4733
+2025-08-25 17:29:19 INFO n probes subset: 67
+2025-08-25 17:29:31 INFO Fold 2: subset shape (4733, 67)
+2025-08-25 17:29:31 INFO Metrics: {'acc-samp': 0.5685670261941448, 'jacc-samp': 0.7689565142954974, 'prec-samp': 0.8867604617604619, 'prec-tiss': 0.9183673469387755, 'f1-tiss': 0.865079365079365}
+2025-08-25 17:29:31 INFO Subset type: system, Subset percentage: 0.5
+2025-08-25 17:29:31 INFO Fold 0:
+2025-08-25 17:29:39 INFO n tissues subset: 25
+2025-08-25 17:29:39 INFO n samples subset: 2897
+2025-08-25 17:30:49 INFO n probes subset: 22
+2025-08-25 17:30:56 INFO Fold 0: subset shape (2897, 22)
+2025-08-25 17:30:56 INFO Metrics: {'acc-samp': 0.7318104906937394, 'jacc-samp': 0.8396110305374265, 'prec-samp': 0.8899222463943275, 'prec-tiss': 0.8823529411764706, 'f1-tiss': 0.8433734939759036}
+2025-08-25 17:30:56 INFO Fold 1:
+2025-08-25 17:31:05 INFO n tissues subset: 26
+2025-08-25 17:31:05 INFO n samples subset: 3529
+2025-08-25 17:32:17 INFO n probes subset: 63
+2025-08-25 17:32:22 INFO Fold 1: subset shape (3529, 63)
+2025-08-25 17:32:22 INFO Metrics: {'acc-samp': 0.9089751750477403, 'jacc-samp': 0.9504799288694896, 'prec-samp': 0.9647252280925102, 'prec-tiss': 0.9858431148010307, 'f1-tiss': 0.9698261386240926}
+2025-08-25 17:32:22 INFO Fold 2:
+2025-08-25 17:32:31 INFO n tissues subset: 25
+2025-08-25 17:32:31 INFO n samples subset: 3774
+2025-08-25 17:33:42 INFO n probes subset: 41
+2025-08-25 17:33:47 INFO Fold 2: subset shape (3774, 41)
+2025-08-25 17:33:47 INFO Metrics: {'acc-samp': 0.7484848484848485, 'jacc-samp': 0.8569799182299183, 'prec-samp': 0.9151082251082251, 'prec-tiss': 0.9354166666666667, 'f1-tiss': 0.9017192240507493}
+2025-08-25 17:33:47 INFO Subset type: system, Subset percentage: 0.2
+2025-08-25 17:33:47 INFO Fold 0:
+2025-08-25 17:33:53 INFO n tissues subset: 13
+2025-08-25 17:33:53 INFO n samples subset: 2039
+2025-08-25 17:34:48 INFO n probes subset: 14
+2025-08-25 17:34:51 INFO Fold 0: subset shape (2039, 14)
+2025-08-25 17:34:51 INFO Metrics: {'acc-samp': 0.8240740740740741, 'jacc-samp': 0.9, 'prec-samp': 0.9225308641975309, 'prec-tiss': 0.9355500821018062, 'f1-tiss': 0.8898026315789475}
+2025-08-25 17:34:51 INFO Fold 1:
+2025-08-25 17:34:58 INFO n tissues subset: 14
+2025-08-25 17:34:58 INFO n samples subset: 2635
+2025-08-25 17:35:56 INFO n probes subset: 28
+2025-08-25 17:35:58 INFO Fold 1: subset shape (2635, 28)
+2025-08-25 17:35:58 INFO Metrics: {'acc-samp': 0.90770533446232, 'jacc-samp': 0.9610358453288174, 'prec-samp': 0.972892222087819, 'prec-tiss': 0.9486565731954366, 'f1-tiss': 0.9411764705882353}
+2025-08-25 17:35:58 INFO Fold 2:
+2025-08-25 17:36:06 INFO n tissues subset: 14
+2025-08-25 17:36:06 INFO n samples subset: 2958
+2025-08-25 17:37:05 INFO n probes subset: 15
+2025-08-25 17:37:07 INFO Fold 2: subset shape (2958, 15)
+2025-08-25 17:37:07 INFO Metrics: {'acc-samp': 0.7832167832167832, 'jacc-samp': 0.8890109890109891, 'prec-samp': 0.9249167499167499, 'prec-tiss': 0.9509442351956476, 'f1-tiss': 0.9214021634944544}
+2025-08-25 17:37:07 INFO Subset type: stratified, Subset percentage: 0.7
+2025-08-25 17:37:07 INFO Fold 0:
+2025-08-25 17:37:16 INFO n tissues subset: 39
+2025-08-25 17:37:16 INFO n samples subset: 3707
+2025-08-25 17:38:45 INFO n probes subset: 34
+2025-08-25 17:39:01 INFO Fold 0: subset shape (3707, 34)
+2025-08-25 17:39:01 INFO Metrics: {'acc-samp': 0.563302752293578, 'jacc-samp': 0.7562716505377056, 'prec-samp': 0.8259287246901926, 'prec-tiss': 0.8, 'f1-tiss': 0.7081259202131389}
+2025-08-25 17:39:01 INFO Fold 1:
+2025-08-25 17:39:11 INFO n tissues subset: 40
+2025-08-25 17:39:11 INFO n samples subset: 4684
+2025-08-25 17:40:42 INFO n probes subset: 41
+2025-08-25 17:41:02 INFO Fold 1: subset shape (4684, 41)
+2025-08-25 17:41:02 INFO Metrics: {'acc-samp': 0.5175699821322216, 'jacc-samp': 0.7637166998840613, 'prec-samp': 0.8665012242737079, 'prec-tiss': 0.8333333333333334, 'f1-tiss': 0.772357537814742}
+2025-08-25 17:41:02 INFO Fold 2:
+2025-08-25 17:41:12 INFO n tissues subset: 38
+2025-08-25 17:41:12 INFO n samples subset: 4335
+2025-08-25 17:42:38 INFO n probes subset: 44
+2025-08-25 17:42:51 INFO Fold 2: subset shape (4335, 44)
+2025-08-25 17:42:51 INFO Metrics: {'acc-samp': 0.6029789419619929, 'jacc-samp': 0.777033857542332, 'prec-samp': 0.8375526858577707, 'prec-tiss': 0.8875, 'f1-tiss': 0.8}
+2025-08-25 17:42:51 INFO Subset type: stratified, Subset percentage: 0.5
+2025-08-25 17:42:51 INFO Fold 0:
+2025-08-25 17:42:59 INFO n tissues subset: 29
+2025-08-25 17:42:59 INFO n samples subset: 2820
+2025-08-25 17:44:12 INFO n probes subset: 67
+2025-08-25 17:44:17 INFO Fold 0: subset shape (2820, 67)
+2025-08-25 17:44:17 INFO Metrics: {'acc-samp': 0.7889022919179735, 'jacc-samp': 0.8904235357190725, 'prec-samp': 0.9272660692745132, 'prec-tiss': 0.9556962025316456, 'f1-tiss': 0.918918918918919}
+2025-08-25 17:44:17 INFO Fold 1:
+2025-08-25 17:44:24 INFO n tissues subset: 29
+2025-08-25 17:44:24 INFO n samples subset: 2380
+2025-08-25 17:45:35 INFO n probes subset: 59
+2025-08-25 17:45:40 INFO Fold 1: subset shape (2380, 59)
+2025-08-25 17:45:40 INFO Metrics: {'acc-samp': 0.7714736012608353, 'jacc-samp': 0.8743439403604887, 'prec-samp': 0.9037568639223484, 'prec-tiss': 0.9283908045977012, 'f1-tiss': 0.9064583333333334}
+2025-08-25 17:45:40 INFO Fold 2:
+2025-08-25 17:45:47 INFO n tissues subset: 27
+2025-08-25 17:45:47 INFO n samples subset: 2098
+2025-08-25 17:46:52 INFO n probes subset: 47
+2025-08-25 17:46:55 INFO Fold 2: subset shape (2098, 47)
+2025-08-25 17:46:55 INFO Metrics: {'acc-samp': 0.6272108843537415, 'jacc-samp': 0.8003908865133356, 'prec-samp': 0.900046259485035, 'prec-tiss': 0.8989846199790952, 'f1-tiss': 0.8584415584415583}
+2025-08-25 17:46:55 INFO Subset type: stratified, Subset percentage: 0.2
+2025-08-25 17:46:55 INFO Fold 0:
+2025-08-25 17:47:00 INFO n tissues subset: 13
+2025-08-25 17:47:00 INFO n samples subset: 1000
+2025-08-25 17:47:52 INFO n probes subset: 19
+2025-08-25 17:47:53 INFO Fold 0: subset shape (1000, 19)
+2025-08-25 17:47:53 INFO Metrics: {'acc-samp': 0.6831460674157304, 'jacc-samp': 0.7759925093632959, 'prec-samp': 0.8120411985018726, 'prec-tiss': 0.8214285714285714, 'f1-tiss': 0.6666666666666667}
+2025-08-25 17:47:53 INFO Fold 1:
+2025-08-25 17:47:58 INFO n tissues subset: 13
+2025-08-25 17:47:58 INFO n samples subset: 948
+2025-08-25 17:48:49 INFO n probes subset: 16
+2025-08-25 17:48:50 INFO Fold 1: subset shape (948, 16)
+2025-08-25 17:48:50 INFO Metrics: {'acc-samp': 0.579476861167002, 'jacc-samp': 0.6902534253137874, 'prec-samp': 0.7580108355762278, 'prec-tiss': 0.8571428571428571, 'f1-tiss': 0.7419354838709677}
+2025-08-25 17:48:50 INFO Fold 2:
+2025-08-25 17:48:55 INFO n tissues subset: 13
+2025-08-25 17:48:55 INFO n samples subset: 942
+2025-08-25 17:49:46 INFO n probes subset: 22
+2025-08-25 17:49:47 INFO Fold 2: subset shape (942, 22)
+2025-08-25 17:49:47 INFO Metrics: {'acc-samp': 0.6540755467196819, 'jacc-samp': 0.777605793808577, 'prec-samp': 0.8439221811985231, 'prec-tiss': 0.9, 'f1-tiss': 0.8160714285714286}
+2025-08-25 17:49:47 INFO Subset type: system, Subset percentage: 0.7
+2025-08-25 17:49:47 INFO Fold 0:
+2025-08-25 17:49:56 INFO n tissues subset: 38
+2025-08-25 17:49:56 INFO n samples subset: 4195
+2025-08-25 17:51:25 INFO n probes subset: 37
+2025-08-25 17:51:45 INFO Fold 0: subset shape (4195, 37)
+2025-08-25 17:51:45 INFO Metrics: {'acc-samp': 0.45372168284789643, 'jacc-samp': 0.6773347903444991, 'prec-samp': 0.7709575645497975, 'prec-tiss': 0.6823725055432373, 'f1-tiss': 0.6252437703141929}
+2025-08-25 17:51:45 INFO Fold 1:
+2025-08-25 17:51:55 INFO n tissues subset: 39
+2025-08-25 17:51:55 INFO n samples subset: 4594
+2025-08-25 17:53:24 INFO n probes subset: 96
+2025-08-25 17:53:35 INFO Fold 1: subset shape (4594, 96)
+2025-08-25 17:53:35 INFO Metrics: {'acc-samp': 0.6857406552838025, 'jacc-samp': 0.8357447006154897, 'prec-samp': 0.9173753206748131, 'prec-tiss': 0.9803976580060989, 'f1-tiss': 0.9487843182875757}
+2025-08-25 17:53:35 INFO Fold 2:
+2025-08-25 17:53:45 INFO n tissues subset: 37
+2025-08-25 17:53:45 INFO n samples subset: 4733
+2025-08-25 17:55:12 INFO n probes subset: 65
+2025-08-25 17:55:22 INFO Fold 2: subset shape (4733, 65)
+2025-08-25 17:55:22 INFO Metrics: {'acc-samp': 0.6070878274268104, 'jacc-samp': 0.783010529389574, 'prec-samp': 0.8967732205020341, 'prec-tiss': 0.9445840312674483, 'f1-tiss': 0.8333333333333333}
+2025-08-25 17:55:22 INFO Subset type: system, Subset percentage: 0.5
+2025-08-25 17:55:22 INFO Fold 0:
+2025-08-25 17:55:29 INFO n tissues subset: 25
+2025-08-25 17:55:29 INFO n samples subset: 2897
+2025-08-25 17:56:39 INFO n probes subset: 17
+2025-08-25 17:56:54 INFO Fold 0: subset shape (2897, 17)
+2025-08-25 17:56:54 INFO Metrics: {'acc-samp': 0.5930626057529611, 'jacc-samp': 0.7043129388941572, 'prec-samp': 0.773299590050859, 'prec-tiss': 0.5833333333333334, 'f1-tiss': 0.4705882352941176}
+2025-08-25 17:56:54 INFO Fold 1:
+2025-08-25 17:57:02 INFO n tissues subset: 26
+2025-08-25 17:57:02 INFO n samples subset: 3529
+2025-08-25 17:58:14 INFO n probes subset: 57
+2025-08-25 17:58:19 INFO Fold 1: subset shape (3529, 57)
+2025-08-25 17:58:19 INFO Metrics: {'acc-samp': 0.9261616804583068, 'jacc-samp': 0.9593510351307932, 'prec-samp': 0.9702853303426187, 'prec-tiss': 0.9885375537302169, 'f1-tiss': 0.969378214118747}
+2025-08-25 17:58:19 INFO Fold 2:
+2025-08-25 17:58:28 INFO n tissues subset: 25
+2025-08-25 17:58:28 INFO n samples subset: 3774
+2025-08-25 17:59:39 INFO n probes subset: 29
+2025-08-25 17:59:45 INFO Fold 2: subset shape (3774, 29)
+2025-08-25 17:59:45 INFO Metrics: {'acc-samp': 0.7234848484848485, 'jacc-samp': 0.8295615033115035, 'prec-samp': 0.8787450974950975, 'prec-tiss': 0.9014344868382136, 'f1-tiss': 0.8571428571428572}
+2025-08-25 17:59:45 INFO Subset type: system, Subset percentage: 0.2
+2025-08-25 17:59:45 INFO Fold 0:
+2025-08-25 17:59:51 INFO n tissues subset: 13
+2025-08-25 17:59:51 INFO n samples subset: 2039
+2025-08-25 18:00:47 INFO n probes subset: 19
+2025-08-25 18:00:48 INFO Fold 0: subset shape (2039, 19)
+2025-08-25 18:00:48 INFO Metrics: {'acc-samp': 0.8703703703703703, 'jacc-samp': 0.9300927357474976, 'prec-samp': 0.9495958259847148, 'prec-tiss': 0.944944494449445, 'f1-tiss': 0.9221043309991964}
+2025-08-25 18:00:48 INFO Fold 1:
+2025-08-25 18:00:55 INFO n tissues subset: 14
+2025-08-25 18:00:55 INFO n samples subset: 2635
+2025-08-25 18:01:53 INFO n probes subset: 29
+2025-08-25 18:01:55 INFO Fold 1: subset shape (2635, 29)
+2025-08-25 18:01:55 INFO Metrics: {'acc-samp': 0.9110922946655376, 'jacc-samp': 0.9611178312702444, 'prec-samp': 0.9677129954437321, 'prec-tiss': 0.933049410624899, 'f1-tiss': 0.9611956804579755}
+2025-08-25 18:01:55 INFO Fold 2:
+2025-08-25 18:02:03 INFO n tissues subset: 14
+2025-08-25 18:02:03 INFO n samples subset: 2958
+2025-08-25 18:03:02 INFO n probes subset: 21
+2025-08-25 18:03:04 INFO Fold 2: subset shape (2958, 21)
+2025-08-25 18:03:04 INFO Metrics: {'acc-samp': 0.817016317016317, 'jacc-samp': 0.9146788396788397, 'prec-samp': 0.9464757464757465, 'prec-tiss': 0.9689176967138982, 'f1-tiss': 0.9310867276960862}
+2025-08-25 18:03:04 INFO All folds complete.
